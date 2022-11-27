@@ -1,0 +1,62 @@
+.cssheader {
+  margin-top: 50px;
+  text-align: center;
+  max-height: 910px;
+  overflow: auto;
+  border-radius: 25px;
+  border: 1px solid black;
+  width: 460px;
+  float: left;
+  margin-left: 28%;
+}
+
+.barcss {
+  border-radius: 25px;
+  border: 1px solid black;
+  float: left;
+  width: 550px;
+  height: 280px;
+  margin-top: 55px;
+  margin-left: 55px;
+
+}
+
+.tablecsv {
+  margin-left: 82px;
+}
+
+table {
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: black;
+}
+
+tr {
+  border: 1px solid black;
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: black;
+}
+
+th {
+  border-radius: 3px;
+  border: 1px solid black;
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: aquamarine;
+}
+
+td {
+  border-radius: 3px;
+  border: 1px solid black;
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: rgb(189, 255, 222);
+}
+
+button {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
